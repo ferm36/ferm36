@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Morales</h1>
-<h3 align="center">A passionate Data Analyst & ML Enthusiast from Mexico.</h3>
+<h3 align="center">A passionate Data Scientist & AI Enthusiast from Mexico.</h3>
 
 - 🌱 I’m currently learning **R, C#, and Scala.**
 
