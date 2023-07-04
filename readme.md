@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **R, C#, and Scala.**
 
-- 👨‍💻 All of my projects are available at [https://www.fermorales.tech](https://www.fermorales.tech)
-
-- 💬 Ask me about **Python, pandas, Tensorflow and seaborn.**
+- 💬 Ask me about **Python, Java, PowerBI, Tableau.**
 
 - 📫 How to reach me **lmoraleszapien3@gmail.com**
 
