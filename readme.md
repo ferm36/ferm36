@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Morales</h1>
-<h3 align="center">CEO of Cybernip, MSc in Electronic Government</h3>
+<h3 align="center">Head of AI, DS and FP&A of Cybernip, MSc in Electronic Government</h3>
 
 - 🌱 I’m currently learning **C++, and Swift.**
 
