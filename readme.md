@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fernando Morales</h1>
-<h3 align="center">A passionate Data Scientist & AI Enthusiast from Mexico.</h3>
+<h3 align="center">CEO of Cybernip, MSc in Electronic Government</h3>
 
-- 🌱 I’m currently learning **R, C#, and Scala.**
+- 🌱 I’m currently learning **C++, and Swift.**
 
-- 💬 Ask me about **Python, Java, PowerBI, Tableau.**
+- 💬 Ask me about **Python, Java, Data Science, AI.**
 
-- 📫 How to reach me **lmoraleszapien3@gmail.com**
+- 📫 How to reach me **fmorales@cybernip.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
